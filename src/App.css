@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#root {
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+}
+
+.render-target-canvas {
+  width: 100%;
+  height: 100%;
+}
